@@ -1,1 +1,1 @@
-document.writeln('Goodbye, world!');
+document.writeln('<FONT COLOR="#009ACD">Goodbye, world!</FONT>');
